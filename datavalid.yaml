@@ -1,0 +1,17 @@
+name: datavalid
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip=18.0
+  - python=3.5.5
+  - jupyter=1.0.0
+  - ipython=7.0.1
+  - nb_conda=2.2.0
+  - numpy=1.15.2
+  - gast==0.2.2
+  - python-snappy==0.5.3
+  - pip:
+    - tensorflow-data-validation
+    - seaborn==0.9.0
+    - tensorflow==1.14.0
