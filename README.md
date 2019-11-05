@@ -1,5 +1,12 @@
 # tfx-dv
-Data validation with TensorFlow Extended
+
+## About
+
+This is an experimental repo for data validation with TensorFlow Extended.
+
+Work in progress.
+
+## How to use
 
 Create and activate environment:
 ```
